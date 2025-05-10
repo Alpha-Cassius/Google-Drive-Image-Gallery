@@ -31,12 +31,6 @@ Whether you're organizing photos, managing shared folders, or simply browsing yo
 
 ---
 
-## 📸 Screenshots
-
-> *(Insert screenshots here to showcase the UI)*
-
----
-
 ## ⚙️ Requirements
 
 * Python 3.8+
